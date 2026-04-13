@@ -26,6 +26,14 @@ Growing up alongside my sister’s journey with Type 1 diabetes, I saw firsthand
 
 ---
 
+## Quick Snapshot
+- Computer Engineering student at Indiana University  
+- Accelerated M.S. in Intelligent Systems Engineering  
+- Focused on embedded systems, machine learning, and healthcare technology  
+- Experience across ML, embedded systems, cloud APIs, and data analytics  
+
+---
+
 ## Technical Focus
 - Embedded Systems and Edge Computing  
 - Machine Learning and Model Optimization  
@@ -38,32 +46,38 @@ I enjoy working where systems thinking, performance constraints, and real-world 
 
 ## Featured Projects
 
-### Radiation-Induced Fault Characterization
-- Simulated a 4-bit CMOS shift register at the transistor level using LTspice  
-- Modeled SEU/SET faults through transient current injection  
-- Identified node-level vulnerabilities and clock-dependent behavior  
-- Developed a methodology for reliability analysis in digital systems  
+### [Bone Fracture Detection CNN](https://github.com/jfmedina05/bone-fracture-detection-cnn)
+- Developed a CNN-based model for detecting bone fractures from medical images  
+- Applied deep learning techniques for healthcare-focused computer vision  
+- Demonstrates interest in human-centered and medical device engineering  
 
 ---
 
-### Embedded Neural Network Optimization
+### [Embedded Activity Recognition](https://github.com/jfmedina05/embedded-activity-recognition)
+- Built and optimized a neural network for real-time activity recognition on Raspberry Pi  
 - Improved model accuracy from ~0.80 to up to 1.00  
-- Deployed optimized TensorFlow Lite models on Raspberry Pi  
-- Balanced accuracy, inference time, and model size for edge deployment  
+- Balanced inference time, model size, and deployment constraints using TensorFlow Lite  
 
 ---
 
-### Cloud ML Microservice (Energy Prediction)
-- Built a Random Forest model and deployed it as a Flask-based REST API  
-- Hosted on Jetstream2 cloud virtual machines with Swagger endpoints  
-- Enabled real-time predictions with full pipeline and documentation  
+### [ML Energy Load Microservice](https://github.com/jfmedina05/ml-energy-load-microservice)
+- Developed a cloud-based machine learning microservice using Flask and Random Forest  
+- Deployed REST API with endpoints for predictions, metrics, and visualization  
+- Hosted on Jetstream2 cloud infrastructure for real-time data interaction  
 
 ---
 
-### Data Analytics Dashboard (1st Source Bank)
-- Built a SQL and Power BI dashboard analyzing account closures  
-- Modeled customer behavior, retention trends, and transaction data  
-- Delivered insights to support business decision-making  
+### [Romi Autonomous Vehicle](https://github.com/jfmedina05/romi-autonomous-vehicle)
+- Designed an autonomous and manual control system for a Romi 32U4 robot  
+- Implemented closed-loop wheel speed control using encoder feedback  
+- Built state-machine-driven navigation for reliable movement  
+
+---
+
+### [STM32 Embedded Systems Project](https://github.com/jfmedina05/stm32-embedded-systems-project)
+- Developed embedded systems using STM32 microcontrollers and STM32CubeIDE  
+- Implemented UART communication, GPIO control, and sensor interfacing  
+- Strengthened low-level firmware and hardware-software integration skills  
 
 ---
 
@@ -106,15 +120,5 @@ Intelligent and Embedded Systems
 
 ---
 
-## Fun Fact
+## Beyond Engineering
 I play rugby and compete as a student-athlete on the Indiana University Men’s Rugby Team.
-
-## GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jfmedina05&show_icons=true&hide_title=true&cache_seconds=86400" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jfmedina05&layout=compact&cache_seconds=86400" />
-</p>
