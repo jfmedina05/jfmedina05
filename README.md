@@ -111,10 +111,6 @@ I play rugby and compete as a student-athlete on the Indiana University Men’s 
 
 ## GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jfmedina05&show_icons=true&hide_title=true" />
-</p>
+![Jaiden's GitHub stats](https://github-readme-stats.vercel.app/api?username=jfmedina05&show_icons=true&hide_title=true&cache_seconds=86400)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jfmedina05&layout=compact" />
-</p>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jfmedina05&layout=compact&cache_seconds=86400)
