@@ -31,7 +31,7 @@ I enjoy working where **systems thinking, performance constraints, and real-worl
 - Simulated a 4-bit CMOS shift register at transistor level using LTspice  
 - Modeled SEU/SET faults via transient current injection  
 - Identified node-level vulnerabilities and clock-dependent behavior  
-→ Built a methodology for reliability analysis in digital systems :contentReference[oaicite:0]{index=0}  
+→ Built a methodology for reliability analysis in digital systems
 
 ---
 
