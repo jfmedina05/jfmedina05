@@ -88,7 +88,7 @@ Built a chapter impacting **500+ students** and collaborating with **20+ organiz
 ---
 
 ## 📫 Connect With Me
-- 💼 LinkedIn: [https://www.linkedin.com/in/jaiden-medina/details/projects/]
+- 💼 LinkedIn: https://www.linkedin.com/in/jaiden-medina/details/projects/
 - 📧 Email: jfmedina@iu.edu  
 
 ---
