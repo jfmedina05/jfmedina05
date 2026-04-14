@@ -122,9 +122,3 @@ Intelligent and Embedded Systems
 
 ## Beyond Engineering
 I play rugby and compete as a student-athlete on the Indiana University Men’s Rugby Team.
-
-## GitHub Activity
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=jfmedina05&hide_border=true" />
-</p>
