@@ -123,19 +123,7 @@ Intelligent and Embedded Systems
 ## Beyond Engineering
 I play rugby and compete as a student-athlete on the Indiana University Men’s Rugby Team.
 
-<p align="center">
-  <b>Building intelligent systems at the intersection of hardware, software, and healthcare</b>
-</p>
-
-## GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=jfmedina05&show_icons=true&hide_border=true&theme=default" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=jfmedina05&layout=compact&hide_border=true&theme=default" />
-</p>
+## GitHub Activity
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=jfmedina05&hide_border=true" />
