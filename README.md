@@ -123,6 +123,10 @@ Intelligent and Embedded Systems
 ## Beyond Engineering
 I play rugby and compete as a student-athlete on the Indiana University Men’s Rugby Team.
 
+<p align="center">
+  <b>Building intelligent systems at the intersection of hardware, software, and healthcare</b>
+</p>
+
 ## GitHub Stats
 
 <p align="center">
