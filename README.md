@@ -100,6 +100,7 @@ Focused on data-driven decision-making, system optimization, and real-world engi
   Led technical programming and project-based initiatives, helping members develop hands-on experience in engineering and software development.
 
 Built a chapter impacting 500+ students and collaborating with 20+ organizations.
+
 ---
 
 ## Technical Stack
