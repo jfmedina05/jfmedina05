@@ -99,7 +99,7 @@ Focused on data-driven decision-making, system optimization, and real-world engi
 - **Founding Class and Vice President of Technical Development — Tau Epsilon Kappa, Beta Chapter**  
   Led technical programming and project-based initiatives, helping members develop hands-on experience in engineering and software development.
 
-Built a chapter impacting 500+ students and collaborating with 20+ organizations.
+Built chapters impacting 500+ students and collaborating with 20+ organizations.
 
 ---
 
