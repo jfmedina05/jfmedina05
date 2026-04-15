@@ -2,7 +2,7 @@
 
 <p align="center">
   Computer Engineering @ Indiana University <br>
-  Accelerated M.S. in Intelligent Systems Engineering <br>
+  Accelerated M.S. in Intelligent Systems Engineering @ Indiana Universtiy <br>
   Minors in Intelligent Systems Engineering and Mathematics
 </p>
 
