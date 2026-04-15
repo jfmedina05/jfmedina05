@@ -22,7 +22,7 @@ I build data-driven and intelligent systems at the intersection of hardware, sof
 
 What drives me is simple: building technology that improves people’s lives.
 
-Growing up alongside my sister’s journey with Type 1 diabetes, I saw firsthand how medical technologies—such as glucose monitors and insulin pumps—can transform daily life. That experience continues to shape my goal of developing human-centered engineering solutions in healthcare and intelligent systems.
+Growing up alongside my sister’s journey with Type 1 diabetes, I saw first hand how medical technologies—such as glucose monitors and insulin pumps—can transform daily life. That experience continues to shape my goal of developing human-centered engineering solutions in healthcare and intelligent systems.
 
 ---
 
