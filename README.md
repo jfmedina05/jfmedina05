@@ -82,19 +82,24 @@ I enjoy working where systems thinking, performance constraints, and real-world 
 ---
 
 ## Experience
-- Information Technology Intern — 1st Source Bank  
-- LEAN / Manufacturing Engineering Intern — Lippert  
+- **Information Technology Intern — 1st Source Bank**  
+  Worked with SQL and Power BI to analyze customer account behavior, building data-driven insights that informed business and retention strategies.
 
-Focused on data-driven decision-making, system optimization, and operational efficiency.
+- **LEAN / Manufacturing Engineering Intern — Lippert**  
+  Designed and implemented engineering solutions to improve production efficiency, combining data analysis and system optimization to enhance manufacturing workflows.
+
+Focused on data-driven decision-making, system optimization, and real-world engineering impact.
 
 ---
 
 ## Leadership
-- Founder and President — SHPE at Indiana University  
-- Founding Class and Vice President of Technical Development — Tau Epsilon Kappa, Beta Chapter  
+- **Founder and President — SHPE at Indiana University**  
+  Built and led a chapter focused on expanding access, mentorship, and professional development for underrepresented students in STEM.
+
+- **Founding Class and Vice President of Technical Development — Tau Epsilon Kappa, Beta Chapter**  
+  Led technical programming and project-based initiatives, helping members develop hands-on experience in engineering and software development.
 
 Built a chapter impacting 500+ students and collaborating with 20+ organizations.
-
 ---
 
 ## Technical Stack
