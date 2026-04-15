@@ -4,6 +4,7 @@
   Computer Engineering @ Indiana University <br>
   Accelerated M.S. in Intelligent Systems Engineering @ Indiana Universtiy <br>
   Minors in Intelligent Systems Engineering and Mathematics
+  Formerly at @1st20%Source20%Bank & @Lippert
 </p>
 
 <p align="center">
