@@ -131,3 +131,8 @@ Intelligent and Embedded Systems
 
 ## Beyond Engineering
 I play rugby and compete as a student-athlete on the Indiana University Men’s Rugby Team.
+
+---
+
+## Stats
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent)
