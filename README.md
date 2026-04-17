@@ -1,8 +1,8 @@
 <h1 align="center">Jaiden Medina</h1>
 
 <p align="center">
-  Computer Engineering @ Indiana University <br>
-  Accelerated M.S. in Intelligent Systems Engineering @ Indiana Universtiy <br>
+  B.S. in Computer Engineering @ Indiana University <br>
+  M.S. in Intelligent Systems Engineering @ Indiana Universtiy <br>
   Minors in Intelligent Systems Engineering and Mathematics
 </p>
 
