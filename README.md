@@ -2,7 +2,7 @@
 
 <p align="center">
   B.S. in Computer Engineering @ Indiana University <br>
-  M.S. in Intelligent Systems Engineering @ Indiana Universtiy <br>
+  M.S. in Intelligent Systems Engineering @ Indiana University <br>
   Minors in Intelligent Systems Engineering and Mathematics
 </p>
 
@@ -23,7 +23,7 @@
 ## About Me
 I build data-driven and intelligent systems at the intersection of hardware, software, and real-world impact.
 
-I’m especially interested in developing human-centered technologies in healthcare.
+I’m focused on developing human-centered technologies in healthcare and intelligent systems.
 
 Growing up alongside my sister’s journey with Type 1 diabetes, I saw firsthand how tools like glucose monitors and insulin pumps can transform daily life. That experience continues to shape my goal of building systems that make a meaningful impact on people’s lives.
 
@@ -49,38 +49,29 @@ I enjoy working where systems thinking, performance constraints, and real-world 
 
 ## Featured Projects
 
-### [Bone Fracture Detection CNN](https://github.com/jfmedina05/bone-fracture-detection-cnn)
-- Developed a CNN-based model for detecting bone fractures from medical images  
-- Applied deep learning techniques for healthcare-focused computer vision  
-- Demonstrates interest in human-centered and medical device engineering  
+<p align="center">
+  <a href="https://github.com/jfmedina05/bone-fracture-detection-cnn">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=jfmedina05&repo=bone-fracture-detection-cnn&theme=transparent&hide_border=true"/>
+  </a>
+  <a href="https://github.com/jfmedina05/embedded-activity-recognition">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=jfmedina05&repo=embedded-activity-recognition&theme=transparent&hide_border=true"/>
+  </a>
+</p>
 
----
+<p align="center">
+  <a href="https://github.com/jfmedina05/ml-energy-load-microservice">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=jfmedina05&repo=ml-energy-load-microservice&theme=transparent&hide_border=true"/>
+  </a>
+  <a href="https://github.com/jfmedina05/romi-autonomous-vehicle">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=jfmedina05&repo=romi-autonomous-vehicle&theme=transparent&hide_border=true"/>
+  </a>
+</p>
 
-### [Embedded Activity Recognition](https://github.com/jfmedina05/embedded-activity-recognition)
-- Built and optimized a neural network for real-time activity recognition on Raspberry Pi  
-- Improved model accuracy from ~0.80 to up to 1.00  
-- Balanced inference time, model size, and deployment constraints using TensorFlow Lite  
-
----
-
-### [ML Energy Load Microservice](https://github.com/jfmedina05/ml-energy-load-microservice)
-- Developed a cloud-based machine learning microservice using Flask and Random Forest  
-- Deployed REST API with endpoints for predictions, metrics, and visualization  
-- Hosted on Jetstream2 cloud infrastructure for real-time data interaction  
-
----
-
-### [Romi Autonomous Vehicle](https://github.com/jfmedina05/romi-autonomous-vehicle)
-- Designed an autonomous and manual control system for a Romi 32U4 robot  
-- Implemented closed-loop wheel speed control using encoder feedback  
-- Built state-machine-driven navigation for reliable movement  
-
----
-
-### [STM32 Embedded Systems Project](https://github.com/jfmedina05/stm32-embedded-systems-project)
-- Developed embedded systems using STM32 microcontrollers and STM32CubeIDE  
-- Implemented UART communication, GPIO control, and sensor interfacing  
-- Strengthened low-level firmware and hardware-software integration skills  
+<p align="center">
+  <a href="https://github.com/jfmedina05/stm32-embedded-systems-project">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=jfmedina05&repo=stm32-embedded-systems-project&theme=transparent&hide_border=true"/>
+  </a>
+</p>
 
 ---
 
@@ -134,8 +125,9 @@ I play rugby and compete as a student-athlete on the Indiana University Men’s 
 
 ---
 
-## Stats
+## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jfmedina05&theme=vue-dark&show_icons=true&hide_border=true&layout=compact" />
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=jfmedina05&show_icons=true&theme=transparent&hide_border=true"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jfmedina05&layout=compact&theme=transparent&hide_border=true"/>
 </p>
