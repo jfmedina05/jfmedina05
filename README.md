@@ -109,7 +109,7 @@ Built chapters impacting 500+ students and collaborating with 20+ organizations.
 ## Technical Stack
 
 **Languages**  
-Python • C • C++ • Java • SQL • Verilog • RISC-V  
+Python • C • C++ • Java • SQL • Verilog • SystemVerilog • RISC-V  
 
 **Machine Learning & Data**  
 TensorFlow • scikit-learn • Power BI • DAX  
@@ -118,7 +118,7 @@ TensorFlow • scikit-learn • Power BI • DAX
 Arduino • Raspberry Pi • FPGA  
 
 **Tools**  
-GitHub • LTspice • AutoCAD • Fusion 360  
+GitHub • LTspice • AutoCAD • Fusion 360 • Clion  
 
 ---
 
