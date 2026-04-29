@@ -21,7 +21,7 @@
 ---
 
 ## About Me
-I build data-driven and intelligent systems at the intersection of hardware, software, and real-world impact.
+I build data-driven and intelligent systems at the intersection of hardware, software, and real-world impact, with experience in embedded systems and FPGA-based hardware acceleration.
 
 I’m especially interested in developing human-centered technologies in healthcare.
 
@@ -77,8 +77,17 @@ I enjoy working where systems thinking, performance constraints, and real-world 
 
 ---
 
+### [FPGA Digital Design & Hardware Acceleration](https://github.com/jfmedina05/fpga-digital-design-accelerators)
+- Designed FPGA-based hardware accelerators using SystemVerilog and AXI interfaces  
+- Implemented DMA-based data pipelines and custom C drivers for high-throughput processing  
+- Achieved up to **250× performance improvement** over software implementations  
+- Applied pipelining and parallelism to optimize compute-intensive operations
+
+---
+
 ### [STM32 Embedded Systems Project](https://github.com/jfmedina05/stm32-embedded-systems-project)
-- Developed embedded systems using STM32 microcontrollers and STM32CubeIDE  
+- Developed embedded systems using STM32 microcontrollers, including UART communication, GPIO control, and sensor interfacing  
+- Designed full system integration including enclosure design, power analysis, and cost evaluation  
 - Implemented UART communication, GPIO control, and sensor interfacing  
 - Strengthened low-level firmware and hardware-software integration skills  
 
@@ -115,7 +124,7 @@ Python • C • C++ • Java • SQL • Verilog • SystemVerilog • RISC-V
 TensorFlow • scikit-learn • Power BI • DAX  
 
 **Hardware**  
-Arduino • Raspberry Pi • FPGA  
+Arduino • Raspberry Pi • FPGA (AXI, DMA, SystemVerilog) 
 
 **Tools**  
 GitHub • LTspice • AutoCAD • Fusion 360 • Clion  
