@@ -121,13 +121,13 @@ Built chapters impacting 500+ students and collaborating with 20+ organizations.
 Python • C • C++ • Java • SQL • Verilog • SystemVerilog • RISC-V  
 
 **Machine Learning & Data**  
-TensorFlow • scikit-learn • Power BI • DAX  
+TensorFlow • scikit-learn • Pandas • NumPy • Power BI • DAX  
 
-**Hardware**  
-Arduino • Raspberry Pi • FPGA (AXI, DMA, SystemVerilog) 
+**Embedded & Hardware**  
+Arduino • Raspberry Pi • STM32 • FPGA (AXI, DMA, SystemVerilog)  
 
-**Tools**  
-GitHub • LTspice • AutoCAD • Fusion 360 • Clion  
+**Tools & Platforms**  
+GitHub • Vivado • STM32CubeIDE • LTspice • AutoCAD • Fusion 360 • CLion  
 
 ---
 
