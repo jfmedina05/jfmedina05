@@ -127,7 +127,7 @@ TensorFlow • scikit-learn • Pandas • NumPy • Power BI • DAX
 Arduino • Raspberry Pi • STM32 • FPGA (AXI, DMA, SystemVerilog)  
 
 **Tools & Platforms**  
-GitHub • Vivado • STM32CubeIDE • LTspice • AutoCAD • Fusion 360 • CLion  
+GitHub • Vivado • STM32CubeIDE • LTspice • AutoCAD • Fusion 360 • CLion • DraftSight
 
 ---
 
