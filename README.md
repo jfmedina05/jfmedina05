@@ -139,3 +139,10 @@ I play rugby and compete as a student-athlete on the Indiana University Men’s 
 <p align="center">
   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jfmedina05&layout=compact&theme=transparent&hide_border=true"/>
 </p>
+
+## 📊 Stats
+
+<p align="center">
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=jfmedina05&show_icons=true&theme=transparent&hide_border=true"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jfmedina05&layout=compact&theme=transparent&hide_border=true"/>
+</p>
