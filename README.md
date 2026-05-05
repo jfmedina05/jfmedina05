@@ -146,5 +146,6 @@ I play rugby and compete as a student-athlete on the Indiana University Men’s 
 ## Stats
 
 <p align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jfmedina05&layout=compact&theme=transparent&hide_border=true"/>
+  <img height="170em" src="./profile/stats.svg"/>
+  <img height="170em" src="./profile/top-langs.svg"/>
 </p>
