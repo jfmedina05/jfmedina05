@@ -146,6 +146,5 @@ I play rugby and compete as a student-athlete on the Indiana University Men’s 
 ## Stats
 
 <p align="center">
-  <img height="170em" src="./profile/stats.svg"/>
   <img height="170em" src="./profile/top-langs.svg"/>
 </p>
