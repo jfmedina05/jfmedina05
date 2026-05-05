@@ -148,3 +148,9 @@ I play rugby and compete as a student-athlete on the Indiana University Men’s 
 <p align="center">
   <img height="170em" src="./profile/top-langs.svg"/>
 </p>
+
+## Activity Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jfmedina05&theme=github-compact&hide_border=true" />
+</p>
