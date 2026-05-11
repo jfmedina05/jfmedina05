@@ -55,10 +55,10 @@ I enjoy working where systems thinking, performance constraints, and real-world 
 ## Featured Projects
 
 ### [Bone Fracture Detection CNN](https://github.com/jfmedina05/bone-fracture-detection-cnn)
-- Developed a CNN-based medical imaging model for bone fracture detection  
-- Built an image classification workflow using Python, TensorFlow, Jupyter Notebook, and computer vision techniques  
-- Applied deep learning to a healthcare-focused diagnostic image classification problem  
-- Planned future improvements including precision, recall, F1-score, confusion matrix visualization, and transfer learning comparison  
+- Built a CNN-based medical image classification project for identifying fractured versus normal bone images  
+- Developed an end-to-end workflow for dataset loading, image preprocessing, model training, and evaluation using Python and TensorFlow/Keras  
+- Applied computer vision techniques to a healthcare-focused diagnostic imaging problem  
+- Visualized training and validation accuracy/loss to evaluate model behavior and identify future improvements   
 
 ---
 
