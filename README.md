@@ -1,12 +1,15 @@
 <h1 align="center">Jaiden Medina</h1>
 
 <p align="center">
-  B.S. in Computer Engineering @ Indiana University <br>
-  M.S. in Intelligent Systems Engineering @ Indiana Universtiy <br>
-  Minors in Intelligent Systems Engineering and Mathematics
+  B.S. in Computer Engineering @ Indiana University Bloomington <br>
+  Accelerated M.S. in Intelligent Systems Engineering @ Indiana University | Starting Fall 2026 <br>
+  Minors in Mathematics and Intelligent Systems Engineering
 </p>
 
 <p align="center">
+  <a href="https://jfmedina05.github.io/">
+    <img src="https://img.shields.io/badge/Portfolio-Website-purple?style=flat&logo=githubpages">
+  </a>
   <a href="https://www.linkedin.com/in/jaiden-medina">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin">
   </a>
@@ -17,7 +20,6 @@
     <img src="https://img.shields.io/badge/Resume-View-orange?style=flat&logo=adobeacrobatreader">
   </a>
 </p>
-
 ---
 
 ## About Me
@@ -26,6 +28,8 @@ I build data-driven and intelligent systems at the intersection of hardware, sof
 I’m especially interested in developing human-centered technologies in healthcare.
 
 Growing up alongside my sister’s journey with Type 1 diabetes, I saw firsthand how tools like glucose monitors and insulin pumps can transform daily life. That experience continues to shape my goal of building systems that make a meaningful impact on people’s lives.
+
+For a more complete overview of my experience, projects, leadership, and technical background, visit my portfolio website: [jfmedina05.github.io](https://jfmedina05.github.io/).
 
 ---
 
@@ -50,30 +54,37 @@ I enjoy working where systems thinking, performance constraints, and real-world 
 ## Featured Projects
 
 ### [Bone Fracture Detection CNN](https://github.com/jfmedina05/bone-fracture-detection-cnn)
-- Developed a CNN-based model for detecting bone fractures from medical images  
-- Applied deep learning techniques for healthcare-focused computer vision  
-- Demonstrates interest in human-centered and medical device engineering  
+- Developed a CNN-based medical imaging model for bone fracture detection  
+- Built an image classification workflow using Python, TensorFlow, Jupyter Notebook, and computer vision techniques  
+- Applied deep learning to a healthcare-focused diagnostic image classification problem  
+- Planned future improvements including precision, recall, F1-score, confusion matrix visualization, and transfer learning comparison  
 
 ---
 
 ### [Embedded Activity Recognition](https://github.com/jfmedina05/embedded-activity-recognition)
-- Built and optimized a neural network for real-time activity recognition on Raspberry Pi  
-- Improved model accuracy from ~0.80 to up to 1.00  
-- Balanced inference time, model size, and deployment constraints using TensorFlow Lite  
+- Optimized a neural network for real-time human activity recognition on Raspberry Pi  
+- Improved model performance using Standard Scaler preprocessing, sliding windows, Conv1D layers, dropout tuning, and K-Fold Cross Validation  
+- Converted models to TensorFlow Lite for embedded inference  
+- Compared accuracy, model size, TFLite size, and inference time across optimized and non-optimized models  
+- Balanced accuracy, latency, and memory constraints for edge-device deployment    
 
 ---
 
 ### [ML Energy Load Microservice](https://github.com/jfmedina05/ml-energy-load-microservice)
-- Developed a cloud-based machine learning microservice using Flask and Random Forest  
-- Deployed REST API with endpoints for predictions, metrics, and visualization  
-- Hosted on Jetstream2 cloud infrastructure for real-time data interaction  
+- Developed a cloud-deployed machine learning microservice for predicting building heating and cooling loads  
+- Trained and exported a Random Forest regression model using Python and scikit-learn  
+- Built a Flask REST API with endpoints for model information, predictions, performance metrics, figures, and HTML output  
+- Documented the service interface using OpenAPI/Swagger and YAML  
+- Hosted and tested the service on Jetstream2 cloud virtual machines    
 
 ---
 
 ### [Romi Autonomous Vehicle](https://github.com/jfmedina05/romi-autonomous-vehicle)
-- Designed an autonomous and manual control system for a Romi 32U4 robot  
-- Implemented closed-loop wheel speed control using encoder feedback  
-- Built state-machine-driven navigation for reliable movement  
+- Designed a distributed autonomous robotics system using a Romi 32U4, Raspberry Pi, onboard camera, and laptop operator station  
+- Implemented PID line following, encoder feedback, manual control, and autonomous robot behaviors  
+- Integrated Raspberry Pi Camera V2.1 streaming using OpenCV and Redis for drive-by-video operation  
+- Added ArUco marker detection for visual road-sign commands including stop, high-speed, and low-speed behavior  
+- Designed a custom Fusion 360 camera mount for stable camera alignment and physical system integration  
 
 ---
 
@@ -86,10 +97,45 @@ I enjoy working where systems thinking, performance constraints, and real-world 
 ---
 
 ### [STM32 Embedded Systems Project](https://github.com/jfmedina05/stm32-embedded-systems-project)
-- Developed embedded systems using STM32 microcontrollers, including UART communication, GPIO control, and sensor interfacing  
-- Designed full system integration including enclosure design, power analysis, and cost evaluation  
-- Implemented UART communication, GPIO control, and sensor interfacing  
-- Strengthened low-level firmware and hardware-software integration skills  
+- Developed embedded firmware using STM32 microcontrollers, STM32CubeIDE, GPIO, UART, and sensor interfacing  
+- Designed a protective embedded enclosure with mounting standoffs, connector access, moisture protection, and sensor visibility  
+- Modeled system power consumption and battery life using STM32CubeMX  
+- Conducted prototype cost analysis across multiple production scales  
+- Strengthened low-level firmware, hardware integration, and system-level embedded design skills 
+
+---
+
+### [Cyber-Physical Systems Projects](https://github.com/jfmedina05/cyber-physical-systems-projects)
+- Built Raspberry Pi-based cyber-physical systems using I2C, SPI, MQTT, GPIO, and PWM control  
+- Developed sensor interfaces for pressure, temperature, and accelerometer data acquisition  
+- Implemented MQTT-based sensor publishing and remote LED control  
+- Designed and verified a 2-bit saturating counter using SystemVerilog and FPGA tooling
+
+---
+
+## Professional / Research Builds
+
+### Account Closures Analysis Dashboard
+- Built an interactive Power BI dashboard at 1st Source Bank to analyze rapid account closures  
+- Queried customer account data using SQL and modeled trends with DAX  
+- Investigated patterns across onboarding, retention, officer relationships, returning accounts, and transaction behavior  
+- Presented insights to technical and non-technical stakeholders to support business decision-making  
+
+---
+
+### UD Chassis Project — Engineering Automation & Product Innovation
+- Contributed to Lippert’s Upper Deck Chassis project through R&D, LEAN engineering, prototype support, and testing  
+- Built a Python, Excel, AutoCAD, and DraftSight-based calculator to standardize engineering calculations  
+- Connected engineering data with production materials to reduce manual errors and support manufacturing decisions  
+- Helped support a project that improved production efficiency by approximately 34%  
+
+---
+
+### Radiation-Induced Fault Characterization in Sequential Logic
+- Modeled radiation-induced transient faults in a 4-bit CMOS master-slave D flip-flop shift register  
+- Used LTspice to simulate single-event transients, single-event upsets, and node-level vulnerability  
+- Analyzed clock-dependent fault behavior, latch sensitivity, and sequential logic reliability  
+- Demonstrated microelectronics, reliability analysis, and transistor-level circuit simulation skills  
 
 ---
 
