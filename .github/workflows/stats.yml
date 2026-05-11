@@ -38,3 +38,11 @@ jobs:
           git add profile/*.svg
           git commit -m "Update stats" || exit 0
           git push
+
+      - name: Generate top languages card without C
+        uses: readme-tools/github-readme-stats-action@v1
+        with:
+          card: top-langs
+          options: username=jfmedina05&layout=compact&theme=transparent&hide_border=true&hide=C
+          path: profile/top-langs-no-c.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
