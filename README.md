@@ -107,10 +107,10 @@ I enjoy working where systems thinking, performance constraints, and real-world 
 ---
 
 ### [Cyber-Physical Systems Projects](https://github.com/jfmedina05/cyber-physical-systems-projects)
-- Built Raspberry Pi-based cyber-physical systems using I2C, SPI, MQTT, GPIO, and PWM control  
-- Developed sensor interfaces for pressure, temperature, and accelerometer data acquisition  
-- Implemented MQTT-based sensor publishing and remote LED control  
-- Designed and verified a 2-bit saturating counter using SystemVerilog and FPGA tooling
+- Built embedded and FPGA-based systems using Raspberry Pi, Python, SystemVerilog, Vivado, and Basys3 hardware  
+- Developed I2C/SPI sensor interfaces for pressure, temperature, and accelerometer data acquisition  
+- Implemented MQTT sensor publishing, remote LED control, GPIO/PWM output, and Raspberry Pi-to-FPGA SPI communication  
+- Designed and verified digital hardware modules including a demultiplexer, ALU, saturating counter, and elevator FSM  
 
 ---
 
