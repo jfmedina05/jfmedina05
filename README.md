@@ -189,10 +189,22 @@ I play rugby and compete as a student-athlete on the Indiana University Men’s 
 
 ---
 
-## Stats
+## Language Breakdown
+
+<p align="center">
+  <b>Overall</b>
+</p>
 
 <p align="center">
   <img height="170em" src="./profile/top-langs.svg"/>
+</p>
+
+<p align="center">
+  <b>Without C</b>
+</p>
+
+<p align="center">
+  <img height="170em" src="./profile/top-langs-no-c.svg"/>
 </p>
 
 ## Activity Graph
@@ -200,3 +212,6 @@ I play rugby and compete as a student-athlete on the Indiana University Men’s 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=jfmedina05&theme=react-dark" />
 </p>
+
+
+
