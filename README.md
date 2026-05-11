@@ -63,11 +63,10 @@ I enjoy working where systems thinking, performance constraints, and real-world 
 ---
 
 ### [Embedded Activity Recognition](https://github.com/jfmedina05/embedded-activity-recognition)
-- Optimized a neural network for real-time human activity recognition on Raspberry Pi  
-- Improved model performance using Standard Scaler preprocessing, sliding windows, Conv1D layers, dropout tuning, and K-Fold Cross Validation  
-- Converted models to TensorFlow Lite for embedded inference  
-- Compared accuracy, model size, TFLite size, and inference time across optimized and non-optimized models  
-- Balanced accuracy, latency, and memory constraints for edge-device deployment    
+- Built an embedded machine learning system for real-time activity recognition and fall-detection experimentation on Raspberry Pi  
+- Trained and optimized neural network models using TensorFlow/Keras, Conv1D layers, preprocessing, and TensorFlow Lite conversion  
+- Deployed `.tflite` models with Raspberry Pi inference scripts for edge-device testing  
+- Improved model performance while balancing accuracy, model size, inference time, and embedded deployment constraints    
 
 ---
 
