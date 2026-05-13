@@ -97,11 +97,10 @@ I enjoy working where systems thinking, performance constraints, and real-world 
 ---
 
 ### [STM32 Embedded Systems Project](https://github.com/jfmedina05/stm32-embedded-systems-project)
-- Developed embedded firmware using STM32 microcontrollers, STM32CubeIDE, GPIO, UART, and sensor interfacing  
-- Designed a protective embedded enclosure with mounting standoffs, connector access, moisture protection, and sensor visibility  
-- Modeled system power consumption and battery life using STM32CubeMX  
-- Conducted prototype cost analysis across multiple production scales  
-- Strengthened low-level firmware, hardware integration, and system-level embedded design skills 
+- Developed STM32 embedded firmware using C, STM32CubeIDE, STM32CubeMX, GPIO control, UART communication, and STM32 HAL drivers  
+- Implemented UART command-based LED control with serial terminal input, command parsing, and real-time feedback  
+- Integrated embedded hardware design with light sensor PCB layout, protective enclosure design, and connector accessibility  
+- Evaluated power consumption, battery life, and prototype cost across multiple production scales for a complete embedded system 
 
 ---
 
