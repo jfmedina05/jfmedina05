@@ -35,7 +35,7 @@ jobs:
           path: profile/top-langs.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
-      - name: Generate top languages without C, Jupyter Notebook, and Makefile
+      - name: Generate top languages without C, Jupyter Notebook, Makefile, and Linker Script
         uses: readme-tools/github-readme-stats-action@v1
         with:
           card: top-langs
