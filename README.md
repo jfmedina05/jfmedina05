@@ -30,7 +30,7 @@ I’m especially interested in developing human-centered technologies in healthc
 
 Growing up alongside my sister’s journey with Type 1 diabetes, I saw firsthand how tools like glucose monitors and insulin pumps can transform daily life. That experience continues to shape my goal of building systems that make a meaningful impact on people’s lives.
 
-For a more complete overview of my experience, projects, leadership, and technical background, visit my portfolio website: [jfmedina05.github.io](https://jfmedina05.github.io/).
+For a more complete overview of my experience, projects, leadership, and technical background, visit my portfolio website: [www.jaidenmedina.com]( http://www.jaidenmedina.com/).
 
 ---
 
@@ -163,16 +163,19 @@ Built chapters impacting 500+ students and collaborating with 20+ organizations.
 ## Technical Stack
 
 **Languages**  
-Python • C • C++ • Java • SQL • Verilog • SystemVerilog • RISC-V  
+Python • C • C++ • Java • SQL • Rust • Verilog • SystemVerilog • RISC-V Assembly  
 
 **Machine Learning & Data**  
-TensorFlow • scikit-learn • Pandas • NumPy • Power BI • DAX  
+TensorFlow • TensorFlow Lite • scikit-learn • Pandas • NumPy • Power BI • DAX • Matplotlib
 
 **Embedded & Hardware**  
-Arduino • Raspberry Pi • STM32 • FPGA (AXI, DMA, SystemVerilog)  
+Arduino • Raspberry Pi • STM32 • Basys3 FPGA • GPIO • PWM • I2C • SPI • MQTT • UART • Sensors • Motor Control  
+
+**Digital Design & FPGA**  
+SystemVerilog • RTL Design • Finite State Machines • Testbenches • Vivado • AXI • DMA • Sequential Logic • Combinational Logic  
 
 **Tools & Platforms**  
-GitHub • Vivado • STM32CubeIDE • LTspice • AutoCAD • Fusion 360 • CLion • DraftSight
+Git • GitHub • GitHub Pages • Vivado • STM32CubeIDE • LTspice • AutoCAD • Fusion 360 • CLion • DraftSight • VS Code
 
 ---
 
