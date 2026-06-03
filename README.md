@@ -130,15 +130,9 @@ I enjoy working where systems thinking, performance constraints, and real-world 
 
 ---
 
-### Radiation-Induced Fault Characterization in Sequential Logic
-- Modeled radiation-induced transient faults in a 4-bit CMOS master-slave D flip-flop shift register  
-- Used LTspice to simulate single-event transients, single-event upsets, and node-level vulnerability  
-- Analyzed clock-dependent fault behavior, latch sensitivity, and sequential logic reliability  
-- Demonstrated microelectronics, reliability analysis, and transistor-level circuit simulation skills  
-
----
-
 ## Experience
+- **Product & Process Development Engineering Intern — Lippert**  
+
 - **Information Technology Intern — 1st Source Bank**  
   Worked with SQL and Power BI to analyze customer account behavior, building data-driven insights that informed business and retention strategies.
 
@@ -163,19 +157,22 @@ Built chapters impacting 500+ students and collaborating with 20+ organizations.
 ## Technical Stack
 
 **Languages**  
-Python • C • C++ • Java • SQL • Rust • Verilog • SystemVerilog • RISC-V Assembly  
+Python • C • C++ • Java • SQL • JavaScript • HTML/CSS • Verilog • SystemVerilog • Assembly • RISC-V Assembly  
 
-**Machine Learning & Data**  
-TensorFlow • TensorFlow Lite • scikit-learn • Pandas • NumPy • Power BI • DAX • Matplotlib
+**Machine Learning, Data & Computer Vision**  
+TensorFlow • Keras • TensorFlow Lite • scikit-learn • Pandas • NumPy • Matplotlib • OpenCV • Power BI • DAX  
 
-**Embedded & Hardware**  
-Arduino • Raspberry Pi • STM32 • Basys3 FPGA • GPIO • PWM • I2C • SPI • MQTT • UART • Sensors • Motor Control  
+**Embedded Systems & Hardware**  
+Arduino • Raspberry Pi • STM32 • GPIO • PWM • I2C • SPI • UART • MQTT • Sensors • Motor Control • PID Control • Edge Computing  
 
 **Digital Design & FPGA**  
-SystemVerilog • RTL Design • Finite State Machines • Testbenches • Vivado • AXI • DMA • Sequential Logic • Combinational Logic  
+Basys3 FPGA • SystemVerilog • RTL Design • Finite State Machines • Testbenches • Vivado • AXI • DMA • Sequential Logic • Combinational Logic • Hardware Acceleration  
 
-**Tools & Platforms**  
-Git • GitHub • GitHub Pages • Vivado • STM32CubeIDE • LTspice • AutoCAD • Fusion 360 • CLion • DraftSight • VS Code
+**Software, APIs & Cloud**  
+REST APIs • Flask • Swagger/OpenAPI • YAML • Git • GitHub • GitHub Pages • Linux • Jetstream2 VMs • Redis  
+
+**Tools & Engineering Design**  
+STM32CubeIDE • LTspice • AutoCAD • DraftSight • Autodesk Fusion 360 • CLion • VS Code • Microsoft Excel • Microsoft 365
 
 ---
 
