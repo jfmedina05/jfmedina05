@@ -121,7 +121,7 @@ I enjoy working where systems thinking, performance constraints, and real-world 
 
 ---
 
-## Professional / Research Builds
+## Professional Builds
 
 ### Account Closures Analysis Dashboard
 - Built an interactive Power BI dashboard at 1st Source Bank to analyze rapid account closures  
@@ -140,12 +140,12 @@ I enjoy working where systems thinking, performance constraints, and real-world 
 ---
 
 ## Experience
-- **Manufacturing Systems & Process Development Engineering Intern — Lippert**  
+- **Manufacturing Systems & Process Development Engineering Intern — Lippert, Summer 2026**  
 
-- **Information Technology Intern — 1st Source Bank**  
+- **Information Technology Intern — 1st Source Bank, Summer 2025**  
   Worked with SQL and Power BI to analyze customer account behavior, building data-driven insights that informed business and retention strategies.
 
-- **LEAN / Manufacturing Engineering Intern — Lippert**  
+- **LEAN / Manufacturing Engineering Intern — Lippert, Summer 2024**  
   Designed and implemented engineering solutions to improve production efficiency, combining data analysis and system optimization to enhance manufacturing workflows.
 
 Focused on data-driven decision-making, system optimization, and real-world engineering impact.
