@@ -140,7 +140,7 @@ I enjoy working where systems thinking, performance constraints, and real-world 
 ---
 
 ## Experience
-- **Product & Process Development Engineering Intern — Lippert**  
+- **Manufacturing Systems & Process Development Engineering Intern — Lippert**  
 
 - **Information Technology Intern — 1st Source Bank**  
   Worked with SQL and Power BI to analyze customer account behavior, building data-driven insights that informed business and retention strategies.
