@@ -54,6 +54,15 @@ I enjoy working where systems thinking, performance constraints, and real-world 
 
 ## Featured Projects
 
+### [Glucose Trend Alert System](https://github.com/jfmedina05/glucose-trend-alert-system)
+
+- Built a synthetic continuous glucose monitor analytics system that detects glucose trends, classifies simulated risk zones, and generates user-centered alerts
+- Developed a modular Python pipeline for synthetic CGM data generation, risk classification, rate-of-change analysis, trend detection, alert prioritization, and CSV report export
+- Created a Streamlit dashboard to visualize glucose trends, risk zones, active simulated alerts, and processed healthcare-style data
+- Added validation documentation including software requirements, risk management summary, validation plan, and requirements traceability matrix to demonstrate medical-device software awareness
+
+---
+
 ### [Bone Fracture Detection CNN](https://github.com/jfmedina05/bone-fracture-detection-cnn)
 - Built a CNN-based medical image classification project for identifying fractured versus normal bone images  
 - Developed an end-to-end workflow for dataset loading, image preprocessing, model training, and evaluation using Python and TensorFlow/Keras  
@@ -160,7 +169,7 @@ Built chapters impacting 500+ students and collaborating with 20+ organizations.
 Python • C • C++ • Java • SQL • JavaScript • HTML/CSS • Verilog • SystemVerilog • Assembly • RISC-V Assembly  
 
 **Machine Learning, Data & Computer Vision**  
-TensorFlow • Keras • TensorFlow Lite • scikit-learn • Pandas • NumPy • Matplotlib • OpenCV • Power BI • DAX  
+TensorFlow • Keras • TensorFlow Lite • scikit-learn • Pandas • NumPy • Matplotlib • Plotly • Streamlit • OpenCV • Power BI • DAX
 
 **Embedded Systems & Hardware**  
 Arduino • Raspberry Pi • STM32 • GPIO • PWM • I2C • SPI • UART • MQTT • Sensors • Motor Control • PID Control • Edge Computing  
@@ -169,7 +178,7 @@ Arduino • Raspberry Pi • STM32 • GPIO • PWM • I2C • SPI • UART •
 Basys3 FPGA • SystemVerilog • RTL Design • Finite State Machines • Testbenches • Vivado • AXI • DMA • Sequential Logic • Combinational Logic • Hardware Acceleration  
 
 **Software, APIs & Cloud**  
-REST APIs • Flask • Swagger/OpenAPI • YAML • Git • GitHub • GitHub Pages • Linux • Jetstream2 VMs • Redis  
+REST APIs • Flask • Swagger/OpenAPI • YAML • pytest • GitHub Actions • Git • GitHub • GitHub Pages • Linux • Jetstream2 VMs • Redis
 
 **Tools & Engineering Design**  
 STM32CubeIDE • LTspice • AutoCAD • DraftSight • Autodesk Fusion 360 • CLion • VS Code • Microsoft Excel • Microsoft 365
