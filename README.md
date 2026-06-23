@@ -8,16 +8,16 @@
 
 <p align="center">
   <a href="https://jfmedina05.github.io/">
-    <img src="https://img.shields.io/badge/Portfolio-Website-purple?style=flat&logo=githubpages">
+    <img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-Website-6f42c1?style=flat&logo=githubpages&logoColor=white">
   </a>
-  <a href="https://www.linkedin.com/in/jaiden-medina">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin">
+  <a href="https://www.linkedin.com/in/jaiden-medina/">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logoColor=white">
   </a>
   <a href="mailto:jfmedina@iu.edu">
-    <img src="https://img.shields.io/badge/Email-Contact-red?style=flat&logo=gmail">
+    <img alt="Email" src="https://img.shields.io/badge/Email-Contact-D14836?style=flat&logo=gmail&logoColor=white">
   </a>
-  <a href="https://raw.githubusercontent.com/jfmedina05/jfmedina05/main/Jaiden_Medina_Resume.pdf">
-    <img src="https://img.shields.io/badge/Resume-View-orange?style=flat&logo=adobeacrobatreader">
+  <a href="https://github.com/jfmedina05/jfmedina05/blob/main/Jaiden_Medina_Resume.pdf">
+    <img alt="Resume" src="https://img.shields.io/badge/Resume-View-orange?style=flat&logo=readme&logoColor=white">
   </a>
 </p>
 
