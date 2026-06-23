@@ -11,7 +11,7 @@
     <img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-Website-6f42c1?style=flat&logo=githubpages&logoColor=white">
   </a>
   <a href="https://www.linkedin.com/in/jaiden-medina/">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logoColor=white">
+    <img alt="LinkedIn" src="https://img.shields.io/static/v1?label=LinkedIn&amp;message=Connect&amp;color=0A66C2&amp;style=flat">
   </a>
   <a href="mailto:jfmedina@iu.edu">
     <img alt="Email" src="https://img.shields.io/badge/Email-Contact-D14836?style=flat&logo=gmail&logoColor=white">
