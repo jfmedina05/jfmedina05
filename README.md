@@ -149,6 +149,21 @@ Vivado • STM32CubeIDE • LTspice • AutoCAD • DraftSight • Fusion 360 �
 
 ---
 
+## Community & Leadership
+
+<p align="center">
+  <img src="images/shpe-logo.png" height="80">
+  <img src="images/tek-logo.png" height="80">
+</p>
+
+### SHPE at Indiana University
+Founder and President of the Indiana University chapter of the Society of Hispanic Professional Engineers (SHPE). Built a chapter serving 500+ students through professional development, industry partnerships, mentorship, and STEM outreach initiatives.
+
+### Tau Epsilon Kappa (TEK)
+Founding Class and Vice President of Technical Development of the Beta Chapter of Tau Epsilon Kappa, a professional engineering and business fraternity focused on leadership, technical growth, entrepreneurship, and career development.
+
+---
+
 ## Language Breakdown
 
 <p align="center">
@@ -166,21 +181,6 @@ Vivado • STM32CubeIDE • LTspice • AutoCAD • DraftSight • Fusion 360 �
 <p align="center">
   <img height="170em" src="./profile/top-langs-no-c.svg"/>
 </p>
-
----
-
-## Community & Leadership
-
-<p align="center">
-  <img src="images/shpe-logo.png" height="80">
-  <img src="images/tek-logo.png" height="80">
-</p>
-
-### SHPE at Indiana University
-Founder and President of the Indiana University chapter of the Society of Hispanic Professional Engineers (SHPE). Built a chapter serving 500+ students through professional development, industry partnerships, mentorship, and STEM outreach initiatives.
-
-### Tau Epsilon Kappa (TEK)
-Founding Class and Vice President of Technical Development of the Beta Chapter of Tau Epsilon Kappa, a professional engineering and business fraternity focused on leadership, technical growth, entrepreneurship, and career development.
 
 ---
 
