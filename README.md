@@ -153,7 +153,7 @@ Vivado • STM32CubeIDE • LTspice • AutoCAD • DraftSight • Fusion 360 �
 
 <p align="center">
   <img src="images/shpe-logo.png" height="80">
-  <img src="images/tek-logo.png" height="80">
+  <img src="images/tek-logo.jpg" height="80">
 </p>
 
 ### SHPE at Indiana University
