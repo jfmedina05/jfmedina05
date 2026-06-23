@@ -149,14 +149,6 @@ Vivado • STM32CubeIDE • LTspice • AutoCAD • DraftSight • Fusion 360 �
 
 ---
 
-## GitHub Statistics
-
-<p align="center">
-  <img height="170em" src="./profile/stats.svg"/>
-</p>
-
----
-
 ## Language Breakdown
 
 <p align="center">
