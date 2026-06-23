@@ -140,7 +140,7 @@ I enjoy working where systems thinking, performance constraints, and real-world 
 ---
 
 ## Experience
-- **Manufacturing Systems & Process Development Engineering Intern — Lippert, Summer 2026**  
+- **Manufacturing Systems Engineering Intern — Lippert, Summer 2026**  
 
 - **Information Technology Intern — 1st Source Bank, Summer 2025**  
   Worked with SQL and Power BI to analyze customer account behavior, building data-driven insights that informed business and retention strategies.
