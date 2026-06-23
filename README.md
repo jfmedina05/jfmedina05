@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <a href="http://www.jaidenmedina.com">
+  <a href="https://www.jaidenmedina.com">
     <img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-Website-6f42c1?style=flat&logo=githubpages&logoColor=white">
   </a>
   <a href="https://www.linkedin.com/in/jaiden-medina/">
@@ -33,7 +33,7 @@ Inspired by my sister's experience with Type 1 diabetes, I'm especially interest
 
 I'm also active in engineering leadership and professional development as the Founder and President of SHPE at Indiana University.
 
-🌐 **Portfolio:** [www.jaidenmedina.com](http://www.jaidenmedina.com)
+🌐 **Portfolio:** [www.jaidenmedina.com](https://www.jaidenmedina.com)
 
 ---
 
