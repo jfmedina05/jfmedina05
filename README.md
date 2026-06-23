@@ -31,6 +31,8 @@ My work spans embedded systems, FPGA acceleration, machine learning, robotics, c
 
 Inspired by my sister's experience with Type 1 diabetes, I'm especially interested in medical devices, digital health, and human-centered engineering.
 
+I'm also active in engineering leadership and professional development as the Founder and President of SHPE at Indiana University.
+
 🌐 **Portfolio:** [www.jaidenmedina.com](http://www.jaidenmedina.com)
 
 ---
