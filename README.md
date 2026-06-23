@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <a href="https://jfmedina05.github.io/">
+  <a href="http://www.jaidenmedina.com">
     <img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-Website-6f42c1?style=flat&logo=githubpages&logoColor=white">
   </a>
   <a href="https://www.linkedin.com/in/jaiden-medina/">
