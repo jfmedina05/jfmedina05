@@ -25,7 +25,7 @@
 
 ## About Me
 
-I'm a Computer Engineering student at Indiana University and incoming M.S. student in Intelligent Systems Engineering.
+I'm a Computer Engineering student at Indiana University and an accelerated M.S. in Intelligent Systems Engineering at Indiana University.
 
 My work spans embedded systems, FPGA acceleration, machine learning, robotics, cloud services, and healthcare technology. I enjoy building intelligent systems that bridge hardware and software to solve real-world problems.
 
