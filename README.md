@@ -8,7 +8,7 @@
 
 <p align="center">
   <a href="https://www.jaidenmedina.com">
-    <img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-GitHub%20Pages-121013?logo=github&logoColor=white">
+    <img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-121013?logo=github&logoColor=white">
   </a>
   <a href="https://www.linkedin.com/in/jaiden-medina/">
     <img alt="LinkedIn" src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff">
@@ -17,7 +17,7 @@
     <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white">
   </a>
   <a href="https://github.com/jfmedina05/jfmedina05/blob/main/Jaiden_Medina_Resume.pdf">
-    <img alt="Resume" src="https://img.shields.io/badge/Resume-View-018EF5?logo=readme&logoColor=fff">
+    <img alt="ReadMe" src="https://img.shields.io/badge/ReadMe-018EF5?logo=readme&logoColor=fff">
   </a>
 </p>
 
