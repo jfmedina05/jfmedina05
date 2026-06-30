@@ -17,7 +17,7 @@
     <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white">
   </a>
   <a href="https://github.com/jfmedina05/jfmedina05/blob/main/Jaiden_Medina_Resume.pdf">
-    <img alt="ReadMe" src="https://img.shields.io/badge/ReadMe-018EF5?logo=readme&logoColor=fff">
+    <img alt="Resume" src="https://img.shields.io/badge/Resume-PDF-B30B00?logo=adobeacrobatreader&logoColor=white">
   </a>
 </p>
 
