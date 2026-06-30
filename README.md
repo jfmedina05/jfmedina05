@@ -8,16 +8,16 @@
 
 <p align="center">
   <a href="https://www.jaidenmedina.com">
-    <img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-Website-6f42c1?style=flat&logo=githubpages&logoColor=white">
+    <img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-GitHub%20Pages-121013?logo=github&logoColor=white">
   </a>
   <a href="https://www.linkedin.com/in/jaiden-medina/">
-    <img alt="LinkedIn" src="https://img.shields.io/static/v1?label=LinkedIn&message=Connect&color=0A66C2&style=flat">
+    <img alt="LinkedIn" src="https://custom-icon-badges.demolab.com/badge/LinkedIn-Connect-0A66C2?logo=linkedin-white&logoColor=fff">
   </a>
   <a href="mailto:jfmedina@iu.edu">
-    <img alt="Email" src="https://img.shields.io/badge/Email-Contact-D14836?style=flat&logo=gmail&logoColor=white">
+    <img alt="Email" src="https://img.shields.io/badge/Email-Contact-D14836?logo=gmail&logoColor=white">
   </a>
   <a href="https://github.com/jfmedina05/jfmedina05/blob/main/Jaiden_Medina_Resume.pdf">
-    <img alt="Resume" src="https://img.shields.io/badge/Resume-View-orange?style=flat&logo=readme&logoColor=white">
+    <img alt="Resume" src="https://img.shields.io/badge/Resume-View-018EF5?logo=readme&logoColor=fff">
   </a>
 </p>
 
