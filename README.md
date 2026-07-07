@@ -1,8 +1,8 @@
 # Jaiden Medina
 
 <p align="center">
-  B.S. in Computer Engineering @ Indiana University Bloomington <br>
-  Accelerated M.S. in Intelligent Systems Engineering @ Indiana University | Starting Fall 2026 <br>
+  B.S. in Computer Engineering @ Indiana University Bloomington | Expected 2027 <br>
+  Accelerated M.S. in Intelligent Systems Engineering @ Indiana University | Expected 2028 <br>
   Minors in Mathematics and Intelligent Systems Engineering
 </p>
 
