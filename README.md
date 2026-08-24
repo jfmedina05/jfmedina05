@@ -1,4 +1,6 @@
-# Jaiden Medina
+<p align="center">
+  # Jaiden Medina
+</p>
 
 <p align="center">
   B.S. in Computer Engineering @ Indiana University Bloomington | Expected 2027 <br>
