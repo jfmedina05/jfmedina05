@@ -8,7 +8,7 @@
 
 <p align="center">
   <a href="https://www.jaidenmedina.com">
-    <img alt="Portfolio Website" src="https://img.shields.io/badge/GitHub%20Pages-121013?logo=github&logoColor=white">
+    <img src="https://img.shields.io/badge/Portfolio-4285F4?logo=googlechrome&logoColor=white" alt="Portfolio">
   </a>
   <a href="https://www.linkedin.com/in/jaiden-medina/">
     <img alt="LinkedIn" src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff">
